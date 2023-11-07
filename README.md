@@ -42,7 +42,7 @@ EDA involved exploring the spotify-data to answer key questions, such as:
 ---
 Data analysis was performed using SQL with MySQL to explore various aspects of the Spotify music data.
 The primary objectives were to understand trends in track popularity, artist performance, and danceability within the Spotify platform.
-A selection of interactive visualizations created in Power BI showcases some of the key insights, such as average streams and release year trends.
+A selection of [interactive](https://app.powerbi.com/reportEmbed?reportId=ee6f6ab8-9e67-4dac-b754-e0fe0c355a8e&autoAuth=true&ctid=a18d4da0-fa29-4ca0-80a3-dafe7e29cff3) visualizations created in Power BI showcases some of the key insights, such as average streams and release year trends.
 ```sql
 -- Handling missing values
 UPDATE spotify
