@@ -1,6 +1,18 @@
 # Spotify-Music-Analysis
 Unlock the Rhythm of Spotify🎵📊 
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
+  
 ### Project Overview
 ---
 Explore the world of Spotify music with my data-driven analysis and interactive charts. Gain insights into trending artists, track popularity, and more. I used MySQL for data analysis and Power BI for dynamic visualizations. 
